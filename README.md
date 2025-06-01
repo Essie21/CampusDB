@@ -25,7 +25,8 @@ Welcome to CampusDB — a simple but solid SQL project inspired by everyday univ
 
 ## 📷 Project Screenshot
 
-![CampusDB Screenshot](![Screenshot 2025-05-30 201430](https://github.com/user-attachments/assets/02678555-37d2-4149-9d79-133da8dbd507)
+![CampusDB Screenshot]![Screenshot 2025-05-30 201430](https://github.com/user-attachments/assets/a7874738-7f2c-4653-a21b-95d889fdffe7)
+
 )
 
 ---
